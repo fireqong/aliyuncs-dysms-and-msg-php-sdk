@@ -1,5 +1,5 @@
 {
-    "name": "MegaSoma/aliyun-dysms-msg-php-sdk",
+    "name": "zacs/aliyun-dysms-msg-php-sdk",
     "description": "Aliyun SMS message SDK for PHP",
     "keywords": [ "aliyun", "SMS", "sdk" ],
     "type": "library",
